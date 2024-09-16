@@ -1,0 +1,1 @@
+A responsive website built for showcasing different food items and recipes, optimized for mobile, tablet, and desktop devices. The website is designed to provide a user-friendly experience across various screen sizes with smooth navigation, appealing visuals, and easy-to-access content.
